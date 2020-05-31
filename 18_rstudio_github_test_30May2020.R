@@ -39,6 +39,9 @@
 #Result: * master da3ccd3 [origin/master] Initial commit
 # alternative: git branch -r
 
+### Stage and commit
+
+# go to git tab and click on commit
 
 
 # Preshit
