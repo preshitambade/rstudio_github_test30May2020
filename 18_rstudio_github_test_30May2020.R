@@ -46,7 +46,9 @@
 # make sure the stage option is ticked
 # write down commit message and push on commit
 # close the git commit pop-up which open up
-# after successfully committing click on the push button and monitor if the file is pushed
+# after successfully committing click on the push button to push the branch and monitor if the file is pushed
+
+# get into the habit of pulling before pushing
 
 
 # Preshit
