@@ -15,6 +15,8 @@
 
 # check git hub status from terminal by: git status
 
+# if folder is not a local git repo created through R then make a git repo: git init
+
 # connect local directory to GitHub repo by following command: git remote add origin <github repo link>
 
 # check if present local working directory is connected to GitHub or not by following : git remote -v
@@ -55,9 +57,12 @@
 ###########################
 # link: https://happygitwithr.com/git-commands.html
 
-# to clone git repository: git clone https://github.com/jennybc/happy-git-with-r.git
+# to clone git repository to present wd: git clone https://github.com/jennybc/happy-git-with-r.git
 
-
+# to add remote to existing repo
+# git remote add origin https://github.com/jennybc/happy-git-with-r
+# git remote --verbose
+# git remote show origin
 
 
 
