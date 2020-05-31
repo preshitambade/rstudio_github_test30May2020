@@ -40,8 +40,13 @@
 # alternative: git branch -r
 
 ### Stage and commit
-
-# go to git tab and click on commit
+# select files which you want to committ in the Git tab of REnvironment
+# gIn git tab click on commit which will open up the pop-up window
+# in the window select the file which you want to committ
+# make sure the stage option is ticked
+# write down commit message and push on commit
+# close the git commit pop-up which open up
+# after successfully committing click on the push button and monitor if the file is pushed
 
 
 # Preshit
