@@ -50,6 +50,18 @@
 
 # get into the habit of pulling before pushing
 
+###########################
+# Other useful git commands
+###########################
+# link: https://happygitwithr.com/git-commands.html
+
+# to clone git repository: git clone https://github.com/jennybc/happy-git-with-r.git
+
+
+
+
+
+
 
 # Preshit
 # 30 May 2020
